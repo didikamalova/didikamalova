@@ -1,8 +1,6 @@
 
 ## Hi!
-- 🔭 I’m currently working on class projects!
 - 📫 How to reach me: dilnaz@stanford.edu
-- 🌱 Interests: lockpicking, swing dancing, matcha
 
 
 <!--
